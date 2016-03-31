@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="exit">icons/32/exit.png</file>
+        <file alias="fitbest">icons/32/zoom-fit-best.png</file>
+        <file alias="fitheight">icons/32/zoom-fit-height.png</file>
+        <file alias="fitwidth">icons/32/zoom-fit-width.png</file>
+        <file>icons/32/zoom-next.png</file>
+        <file>icons/32/zoom-previous.png</file>
+        <file>icons/32/zoom-select.png</file>
+        <file>icons/32/dialog-error.png</file>
+        <file>icons/32/mypaint-view-zoom.png</file>
+        <file alias="zoomout">icons/32/mypaint-view-zoom-less.png</file>
+        <file alias="zoomin">icons/32/mypaint-view-zoom-more.png</file>
+        <file>icons/32/zoom-in.png</file>
+        <file>icons/32/zoom-out.png</file>
+        <file alias="schematic">icons/32/schematic.png</file>
+        <file alias="change">icons/32/change.png</file>
+        <file alias="lock">icons/32/lock.png</file>
+    </qresource>
+</RCC>
